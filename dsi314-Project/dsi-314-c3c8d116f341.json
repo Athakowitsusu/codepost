@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dsi-314",
+  "private_key_id": "c3c8d116f3419edd8b54eff519afc4e013338c2f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxugQ0JGWHVmUG\nnL+Xm7EbCSaAs9lmSmc8GvoUzuuZi3q2Whhi2wNE56YpPs91+JyhyEHQr+S185xu\nBo53P+u+Jfin5qRtXR9cb5ARE2GhUtO3coZMCwUxMk9My+WpVaXqcHa3E9VhSBTJ\nFilXJ9tqe6iG7/4aA6+k00vLFD0kLhfIP418AbEYCrj2T4RY469MLM6KKXpgi1VD\nod2j7Qs+ibreEfGtfNT+4VwdKPdUFryTLR6goIyeTuJPLH9gpgAwiYXtLTJXmI+5\npPV1BHLwG74MesJ8naaOIU6JMXVQbWLp5zq+/IrxqbrlH/d0Iw8Iga2tXi0ha7EO\neQV8/fxbAgMBAAECggEAG47ObA9gttWMoLPZeXaoxZprn/VDNns++rDsKiHTomFg\nS7o4oct3/E03FJoqrQ45q1RT8Dn16si1btIRcSg2M6vLnK1Evbh8zmZ2Hk+1CcDA\nF2forw3eZjx4012iZNlk+q8pmUW4BneY0X1gN6V0flRiU1oPOpVrvNEOpZSjzmIc\nfwAf9qgtj+dWvnZgN9uwrvtRytNW6OIVE8alfYHaYE9n1lyu0xl9uk+hQ+Vk+dlc\n9QMFCSFmjrSSQLNLRflAvwGgoMeMqCLQZdeZ8g3Rzb2f9QNYa1EqHFgI1tyt/HTb\nqDeb1cRoYFrvxn04ayUxQvnoWVG+Az/HjetQa4thoQKBgQD1MuA0wdWBkkzMC5eY\nfEW7wChD/DosaLEaNZowIRraCxpjFfl8DY+CYn+CLkVOuDqJ4eeNq8jR3aWXEhp1\nUIfgzz+fnk3DA1Qu7sM9xE61+R1D2qGuKI3ogncw3t3P/NZsZ+gkVspNuvzwYyPI\nJdEyAm2FGnmwVZGv51geS2vJ4wKBgQC5jkCwYBU0giRW4QQ8UZxGaU2g69JXLsvS\naUgwAEsQ2bT4NZ3lbosAyucTonDC+oXR5VGbVOngInppsE9BmrXPXTK7eLy8ElP7\nzo9LhmS5f9nOOAMqBu81d68GECobsyV+64TBH3yATji0GffHTfoVpp9V42dM9QU2\nqwLqjDdtKQKBgQDeGXZS81yU4FMl5D4txitYFIekhTygazg4eGMww1vSM4p0RDxW\n7OWYAeZjocvvsRp9OJ4Iipj92BodDC3hI8/gh3mm+LqRMVu4o1dAhKeTV5H1m30m\nBt/7wul53/XlZq1HRptVBzR6Uiy5BeQscGzcMqzHiyK84dV0E0aTMlfxZwKBgG4f\ntda3f35FSqnhK7FcwgGr122M563kUQUUhMowMlzSyCuTLp2OyKJ0yUWG36NoKWmT\nzqYAdDkYXUxCXhdSaVqjNku68VAxFHTad4LcRQUukqZn6cDUkr1Jxa80grkjzjoQ\nLx6qwCopwk9pJfu8FJMq619+8bzjoe96+OUYyIBZAoGABs2mqgRRmoHrFjo2yb8j\nXeziMIKdD1SvN3KDP6ji5+xnnjN2zQ7JTu59LODWFgIIj5Y4sdyI8VNw/587O/LJ\nBxY0QQgEDxn5ZhDkUDnIoOnOyIpBlaZIfQAmBAZVtQ2Pt4lDgSkcK5QgDoQf3Sgs\ngliRx+owHOqGQaO41zZdOAA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dsi-load-data-to-bigquery@dsi-314.iam.gserviceaccount.com",
+  "client_id": "110196277937946677260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dsi-load-data-to-bigquery%40dsi-314.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

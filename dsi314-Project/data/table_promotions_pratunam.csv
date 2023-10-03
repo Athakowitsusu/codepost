@@ -1,0 +1,18 @@
+Promo_id,Promo_name,Discount,Condition,Status
+00-001,New year,50%,-,Unavailable
+00-002,Songkran,50%,Only participating products,Unavailable
+00-003,Christmas,50%,Only participating products,Unavailable
+01-001,January (1.1),30%,purchase at least 700 baht,Unavailable
+02-001,February (2.2),30%,purchase at least 700 baht,Unavailable
+03-001,March (3.3),30%,purchase at least 700 baht,Unavailable
+04-001,April (4.4),30%,purchase at least 700 baht,Unavailable
+05-001,May (5.5),30%,purchase at least 700 baht,Unavailable
+06-001,June (6.6),30%,purchase at least 700 baht,Unavailable
+07-001,July (7.7),30%,purchase at least 700 baht,Unavailable
+08-001,August (8.8),30%,purchase at least 700 baht,Unavailable
+09-001,September (9.9),30%,purchase at least 700 baht,Available
+10-001,October (10.10),30%,purchase at least 700 baht,Unavailable
+11-001,November (11.11),30%,purchase at least 700 baht,Unavailable
+12-001,December (12.12),30%,purchase at least 700 baht,Unavailable
+00-004,"Get one, Free one",-,Only participating products,Unavailable
+00-005,Flash sale (40%),40%,-,Available
